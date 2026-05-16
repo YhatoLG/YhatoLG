@@ -1,8 +1,8 @@
 # Lucas Monroy
 
-**Backend & Data Engineer** · Colombia
+**Software & Data Engineer** · Colombia
 
-Backend-oriented developer focused on scalable systems, RESTful APIs, database optimization, and data-driven applications. Interested in cloud infrastructure and machine learning.
+Engineer oriented toward data systems and machine learning models. Focused on building scalable backends, data pipelines, RESTful APIs, and applying ML to real-world problems.
 
 📧 lucasmonroy1243@gmail.com · [LinkedIn](https://www.linkedin.com/in/lucasmonroys/) · [GitHub](https://github.com/YhatoLG)
 
@@ -20,11 +20,11 @@ Backend-oriented developer focused on scalable systems, RESTful APIs, database o
 
 ## Featured Project
 
-### [Project Management System](https://github.com/critical-c/API-Front-C--DATA_BASE)
-Enterprise platform for managing projects, tasks, budgets, and deliverables.
+### [ABML — Behavioral Intelligence Platform](https://github.com/YhatoLG/ABML_Proyect)
+Real-time behavioral analysis platform for structured evaluation sessions. Combines facial emotion recognition, a multi-database REST API, and a live web interface displaying questions to the evaluated subject.
 
-**Stack:** C# .NET · Flask · PostgreSQL · JWT  
-**Highlights:** Secure auth, full CRUD, budget control, RESTful architecture
+**Stack:** C# ASP.NET Core 9 · Python · React · SignalR · OpenCV  
+**Highlights:** Real-time emotion detection, multi-DB support (SQL Server / PostgreSQL / MySQL), WebSocket communication, desktop + web + API architecture
 
 ---
 
@@ -34,7 +34,3 @@ Enterprise platform for managing projects, tasks, budgets, and deliverables.
 
 ---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YhatoLG&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YhatoLG&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
